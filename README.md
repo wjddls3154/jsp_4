@@ -1,4 +1,4 @@
-# jsp_4
+# jsp_4 : 비교 연산자
 
 ![image](https://user-images.githubusercontent.com/37132897/158108384-a8034e12-3029-4eef-ac5f-df745b885ad3.png)
 
